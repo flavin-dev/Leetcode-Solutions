@@ -17,7 +17,7 @@ public:
             n.push_back(temp->val);
             temp=temp->next;
         }
-        int ans=INT_MIN,N=n.size();
+        int ans=0,N=n.size();
 
         for(int i=0;i<N/2;i++){
             ans=max(ans,n[i]+n[N-1-i]);
