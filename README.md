@@ -15,6 +15,7 @@ My DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -33,4 +34,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
