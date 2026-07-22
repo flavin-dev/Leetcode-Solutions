@@ -26,6 +26,7 @@ My DSA solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -38,9 +39,14 @@ My DSA solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
