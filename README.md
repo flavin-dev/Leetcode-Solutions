@@ -42,6 +42,7 @@ My DSA solutions
 | [0001-two-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
