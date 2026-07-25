@@ -56,5 +56,6 @@ My DSA solutions
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
