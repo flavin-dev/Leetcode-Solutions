@@ -46,6 +46,7 @@ My DSA solutions
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -55,6 +56,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
