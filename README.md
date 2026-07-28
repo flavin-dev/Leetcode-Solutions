@@ -66,6 +66,7 @@ My DSA solutions
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [3379-score-of-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
