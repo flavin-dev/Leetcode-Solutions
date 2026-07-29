@@ -39,6 +39,7 @@ My DSA solutions
 | ------- |
 | [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -108,10 +109,12 @@ My DSA solutions
 | ------- |
 | [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
