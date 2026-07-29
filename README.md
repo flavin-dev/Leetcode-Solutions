@@ -37,6 +37,7 @@ My DSA solutions
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -104,6 +105,7 @@ My DSA solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
