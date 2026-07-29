@@ -117,4 +117,12 @@ My DSA solutions
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
