@@ -7,22 +7,11 @@ public:
     }
     
     void push(int value) {
-        if(st.empty()&&minst.empty()){
+        if((st.empty()&&minst.empty())||minst.empty()){
             st.push(value);
             minst.push(value);
         }
-        else if(st.empty()){
-            st.push(value);
-            if(value<=minst.top()){
-                minst.push(value);
-            }
-            
-        }
-        else if(minst.empty()){
-            st.push(value);
-            minst.push(value);
-            
-        }
+        
         else{
             st.push(value);
             if(value<=minst.top()){
