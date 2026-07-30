@@ -55,6 +55,7 @@ My DSA solutions
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -120,9 +121,26 @@ My DSA solutions
 ## Math
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
