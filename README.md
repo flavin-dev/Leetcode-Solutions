@@ -34,6 +34,7 @@ My DSA solutions
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -77,6 +79,7 @@ My DSA solutions
 | [0020-valid-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
