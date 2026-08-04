@@ -54,6 +54,7 @@ My DSA solutions
 | [0001-two-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ My DSA solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
