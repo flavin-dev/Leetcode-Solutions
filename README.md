@@ -102,10 +102,12 @@ My DSA solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -172,4 +174,12 @@ My DSA solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
