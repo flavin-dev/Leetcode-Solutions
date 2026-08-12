@@ -65,6 +65,7 @@ My DSA solutions
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -107,6 +108,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ My DSA solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Trie
 |  |
