@@ -72,6 +72,7 @@ My DSA solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
