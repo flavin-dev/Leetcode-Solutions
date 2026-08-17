@@ -151,6 +151,7 @@ My DSA solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
