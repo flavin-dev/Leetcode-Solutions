@@ -63,6 +63,7 @@ My DSA solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
@@ -154,6 +155,7 @@ My DSA solutions
 | [0007-reverse-integer](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -190,6 +192,7 @@ My DSA solutions
 | [0022-generate-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
