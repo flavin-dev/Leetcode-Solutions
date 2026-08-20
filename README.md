@@ -58,6 +58,7 @@ My DSA solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +185,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Dynamic Programming
