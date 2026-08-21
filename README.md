@@ -59,6 +59,7 @@ My DSA solutions
 | [0014-longest-common-prefix](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +156,7 @@ My DSA solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
