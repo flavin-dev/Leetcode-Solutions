@@ -161,6 +161,7 @@ My DSA solutions
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
