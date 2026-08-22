@@ -24,6 +24,7 @@ My DSA solutions
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -36,6 +37,7 @@ My DSA solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -158,6 +160,7 @@ My DSA solutions
 | [0009-palindrome-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -244,4 +247,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
