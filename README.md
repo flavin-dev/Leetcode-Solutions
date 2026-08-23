@@ -41,6 +41,7 @@ My DSA solutions
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ My DSA solutions
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@ My DSA solutions
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Combinatorics
 |  |
 | ------- |
@@ -269,4 +272,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
