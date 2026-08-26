@@ -74,6 +74,7 @@ My DSA solutions
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -135,17 +136,20 @@ My DSA solutions
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -277,6 +281,7 @@ My DSA solutions
 | ------- |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Counting
 |  |
 | ------- |
