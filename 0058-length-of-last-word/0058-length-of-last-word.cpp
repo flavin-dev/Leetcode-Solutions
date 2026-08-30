@@ -6,14 +6,13 @@ public:
             if(s[i]==' '){
                 if(cnt>0){
                     return cnt;
-                }
-                else if(cnt==0){
-                    continue;
-                }
-               
             }
-            else
-            cnt++;
+            
+            }
+            else{
+                cnt++;
+            }
+            
         }
         return cnt;
     }
