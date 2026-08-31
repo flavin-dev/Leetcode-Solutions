@@ -41,6 +41,7 @@ My DSA solutions
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
@@ -73,6 +74,7 @@ My DSA solutions
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -162,6 +164,7 @@ My DSA solutions
 | [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -177,6 +180,7 @@ My DSA solutions
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -288,4 +292,8 @@ My DSA solutions
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
