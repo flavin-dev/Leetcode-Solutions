@@ -183,6 +183,7 @@ My DSA solutions
 | [0007-reverse-integer](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -220,6 +221,7 @@ My DSA solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -303,4 +305,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
