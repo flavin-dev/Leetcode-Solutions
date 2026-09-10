@@ -157,6 +157,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
@@ -256,10 +257,12 @@ My DSA solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Memoization
 |  |
 | ------- |
