@@ -64,6 +64,7 @@ My DSA solutions
 | [0050-powx-n](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -204,6 +205,7 @@ My DSA solutions
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -225,6 +227,7 @@ My DSA solutions
 | ------- |
 | [0067-add-binary](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Combinatorics
