@@ -32,6 +32,7 @@ My DSA solutions
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
@@ -94,6 +95,7 @@ My DSA solutions
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -116,6 +118,7 @@ My DSA solutions
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
