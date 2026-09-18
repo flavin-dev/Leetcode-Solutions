@@ -67,6 +67,7 @@ My DSA solutions
 | [0206-reverse-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -211,6 +212,7 @@ My DSA solutions
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -233,6 +235,7 @@ My DSA solutions
 | [0067-add-binary](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Combinatorics
