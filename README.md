@@ -112,6 +112,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@ My DSA solutions
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -216,6 +218,7 @@ My DSA solutions
 | [0342-power-of-four](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
