@@ -51,6 +51,7 @@ My DSA solutions
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -111,6 +112,7 @@ My DSA solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -346,6 +348,7 @@ My DSA solutions
 | ------- |
 | [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Randomized
 |  |
