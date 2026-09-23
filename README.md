@@ -43,6 +43,7 @@ My DSA solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ My DSA solutions
 | [0136-single-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0212-word-search-ii) |
@@ -120,6 +122,7 @@ My DSA solutions
 | ------- |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -277,6 +280,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -340,6 +344,7 @@ My DSA solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Randomized
@@ -350,4 +355,8 @@ My DSA solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
