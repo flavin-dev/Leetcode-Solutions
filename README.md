@@ -81,6 +81,7 @@ My DSA solutions
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -156,6 +157,7 @@ My DSA solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
@@ -272,6 +274,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
