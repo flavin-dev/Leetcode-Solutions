@@ -28,6 +28,7 @@ My DSA solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -96,6 +97,7 @@ My DSA solutions
 | [0212-word-search-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
