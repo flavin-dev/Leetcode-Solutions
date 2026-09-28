@@ -105,6 +105,7 @@ My DSA solutions
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -232,6 +233,7 @@ My DSA solutions
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -281,10 +283,12 @@ My DSA solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,4 +374,12 @@ My DSA solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
