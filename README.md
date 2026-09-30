@@ -123,6 +123,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -227,6 +228,7 @@ My DSA solutions
 | [0189-rotate-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -240,6 +242,7 @@ My DSA solutions
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
