@@ -50,6 +50,7 @@ My DSA solutions
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -151,6 +152,7 @@ My DSA solutions
 | [0242-valid-anagram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -214,6 +216,7 @@ My DSA solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 ## Math
 |  |
@@ -362,6 +365,7 @@ My DSA solutions
 | ------- |
 | [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3324-split-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3324-split-the-array) |
