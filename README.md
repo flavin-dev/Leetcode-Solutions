@@ -119,6 +119,7 @@ My DSA solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3226-minimum-number-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3324-split-the-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3324-split-the-array) |
 ## Simulation
 |  |
@@ -127,6 +128,7 @@ My DSA solutions
 | [0258-add-digits](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ My DSA solutions
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -171,6 +174,7 @@ My DSA solutions
 | ------- |
 | [1127-last-stone-weight](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
 | ------- |
