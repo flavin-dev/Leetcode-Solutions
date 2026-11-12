@@ -18,6 +18,7 @@ My DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@ My DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -169,6 +171,7 @@ My DSA solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
