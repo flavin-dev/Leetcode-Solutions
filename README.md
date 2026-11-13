@@ -20,6 +20,7 @@ My DSA solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -86,6 +88,7 @@ My DSA solutions
 | [0035-search-insert-position](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -298,6 +301,7 @@ My DSA solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -363,6 +367,7 @@ My DSA solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
