@@ -170,6 +170,7 @@ My DSA solutions
 | [0680-valid-palindrome-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3379-score-of-a-string](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
