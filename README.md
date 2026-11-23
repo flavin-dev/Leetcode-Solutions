@@ -201,6 +201,7 @@ My DSA solutions
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -209,6 +210,7 @@ My DSA solutions
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
@@ -329,11 +331,13 @@ My DSA solutions
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Memoization
 |  |
 | ------- |
