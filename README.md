@@ -116,6 +116,7 @@ My DSA solutions
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -305,6 +306,7 @@ My DSA solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
