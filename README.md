@@ -44,6 +44,7 @@ My DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ My DSA solutions
 | [0040-combination-sum-ii](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -144,6 +146,7 @@ My DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -160,6 +163,7 @@ My DSA solutions
 | [0014-longest-common-prefix](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
