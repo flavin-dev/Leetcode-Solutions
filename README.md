@@ -69,6 +69,7 @@ My DSA solutions
 | [0155-min-stack](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -116,6 +117,7 @@ My DSA solutions
 | [0485-max-consecutive-ones](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -386,6 +388,7 @@ My DSA solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/flavin-dev/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
